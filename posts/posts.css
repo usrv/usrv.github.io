@@ -4,6 +4,8 @@ html {
     background-attachment: fixed;
     background-position: left top;
     position:absolute;
+    height: 100%;
+    margin:0;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
