@@ -1,0 +1,32 @@
+html {
+    background-image: url(https://cloud.githubusercontent.com/assets/11308074/10567336/2deaa35e-75b6-11e5-8b56-387df78b38c4.jpg);
+    background-repeat:repeat-x;
+    background-attachment: fixed;
+    background-position: left top;
+    position:absolute;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+}
+
+body.noscroll{
+    height: 100vh;
+    margin:0;
+    overflow: scroll;
+}
+
+h1, p {
+    font-family: 'ProximaNova-Regular';
+}
+
+h1 {
+    margin-bottom: 5vh;
+}
+
+.post {
+    margin: 10vh 40vw 10vh 5vw;
+    background-color: rgba(235,235,235,0.8);
+    overflow-y: scroll;
+    padding: 5vh 5vw;
+}
