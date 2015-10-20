@@ -4,6 +4,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 610px;
     text-align: center;
     margin: 0 auto;
